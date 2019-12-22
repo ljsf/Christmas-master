@@ -52,7 +52,8 @@ canvas.flare{opacity:0.5;}
 
 .chirtmas1 {
 	position: absolute;
-	margin:500px 750px;
+	margin-top:500px;
+	margin-right: 100px;
 }
 
 .content {
