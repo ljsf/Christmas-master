@@ -53,7 +53,7 @@ canvas.flare{opacity:0.5;}
 .chirtmas1 {
 	position: absolute;
 	margin-top:500px;
-	margin-right: 100px;
+	margin-left: 100px;
 }
 
 .content {
@@ -65,7 +65,7 @@ canvas.flare{opacity:0.5;}
 .chirtmas2 {
 	position: absolute;
 	margin-top: 500px;
-	right: 100px;
+	margin-right: 100px
 }
 
 .tree1 {
